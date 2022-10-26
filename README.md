@@ -1,9 +1,9 @@
 # jinhao hu
 welocme to my website.
-I am a gr
+I am a college student 
 I can do
-- python
-- hoeweitl
-- driving
+-  python
+-  hoeweitl
+-  driving
 
  
